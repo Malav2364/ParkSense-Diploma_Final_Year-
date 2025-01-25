@@ -9,8 +9,8 @@ import requests
 import json
 
 ############for notification#################
-serverToken = 'AAAA1xRppaM:APA91bFUu6ZUhfIqlYAlaLQTh1jyf6AYaHV-fAIeJ8GlXNPxCUnqk66nlOTDhXeKFraGwi-jVkavAqkvFITf-c_z2S6eJXIntyqAhHdS_U26waJ6wKD5CHOUmIjU8HaeAOFp5QXzR8cq'
-serverid='923760436643'
+serverToken = 'Insert your Server Token'
+serverid='Your Server ID'
 global headers
 headers = {
         'Content-Type': 'application/json',
